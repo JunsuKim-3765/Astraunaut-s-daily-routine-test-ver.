@@ -1,2 +1,2 @@
-# Astraunaut-s-daily-routine-test-ver.
-test version of Astraunaut's daily routine project.
+# p5.play-boilerplate
+Boiler plate for p5.play
